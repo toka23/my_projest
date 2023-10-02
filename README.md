@@ -1,3 +1,4 @@
 # my_projest
 git course
-## project notes
+## project notes1
+## note2
